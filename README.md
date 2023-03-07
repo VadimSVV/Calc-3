@@ -1,3 +1,4 @@
 Калькулятор
 
-Запустить: https://VadimSVV.github.io/Calc/
+<a href="https://VadimSVV.github.io/Calc/" target="_blank">Запустить</a>
+
